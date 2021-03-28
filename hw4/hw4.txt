@@ -1,0 +1,34 @@
+1999.11.28
+Hello,world. 
+
+2003.04.16
+No one can remember what I was doing then. 
+
+2005.06.17
+This is a test.  #3
+
+2010.04.12
+This is a test data. 
+
+2015.07.13
+printf("hello,world").
+
+2017.11.27
+cout << "hello world". 
+
+2019.05.16
+System.out.println("hello world").
+
+2019.07.16
+print("hello world").
+
+2025.11.22
+echo helloworld
+
+2020.04.17
+Moring, It seems that this week is an easy week
+Let me do some review.
+
+2020.04.18
+Morning, Aha, I've done all my homework, Let's focus on
+my computer organization projects.

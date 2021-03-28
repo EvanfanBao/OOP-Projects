@@ -1,0 +1,10 @@
+这里的test仅仅是一个向量size为10000情况下，自己实现的allocator的运行结果。
+如果需要测试其他情况，需要重新编译。
+提供以下语句
+g++ memoryPool.cpp test.cpp -std=c++11
+在测试release的时间是，采用了-o2优化。
+g++ memoryPool.cpp test.cpp -std=c++11 -o2
+编辑器：VSCode
+编译器：GCC
+OS      :  Windows 10 64位
+CPU    : Intel(R) Core(TM) i5-8250 

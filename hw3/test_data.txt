@@ -1,0 +1,29 @@
+5
+go east go east go up go down go west go west             // find princess
+
+6
+go north go north go east go west go south go south    // find princess
+
+4
+go west go east go east go north go west go west go east go north go east go up go west go west  //catch monster
+
+3
+go north go north		//catch monster
+
+2
+go north go north go east go south go south go west go up go down    //find princess
+
+1
+go north go north go east go west go south go south
+
+7
+go north go north go east go south go south go east go north go north go west go west go up go east go east go south 
+//find the princess but catch a monster  -- fail
+
+2
+goup   //wrong instruction -- try again
+go norht  // wrong direction -- try again
+
+15  //wrong seed, try agian
+
+
